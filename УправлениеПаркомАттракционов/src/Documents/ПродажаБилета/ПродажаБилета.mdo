@@ -31,18 +31,17 @@
   <registerRecords>AccumulationRegister.Продажи</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
-  <attributes uuid="601db0d5-3bb5-4943-873b-529eb01ebac2">
-    <name>Аттракцион</name>
+  <attributes uuid="e4e8c0b4-a371-44e7-93e1-fd63162465f4">
+    <name>Номенклатура</name>
     <synonym>
       <key>ru</key>
-      <value>Аттракцион</value>
+      <value>Номенклатура</value>
     </synonym>
     <type>
-      <types>CatalogRef.Аттракционы</types>
+      <types>CatalogRef.Номенклатура</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
-    <fillChecking>ShowError</fillChecking>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
